@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Clone or donwlonad files and you can run:
+Clone or download files and you can run:
 
 ### `npm install`
 
